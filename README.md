@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 ssssffffff
 var a= 1233 ;
+=======
+dddddd
+var a= 1233 ;131321345456456
+>>>>>>> Stashed changes
 
 var b= 1233 ;
 sdfsdf
